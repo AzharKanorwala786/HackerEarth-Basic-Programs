@@ -1,4 +1,3 @@
-# HackerEarth-Basic-Programs
-All the Basic Programs on HackerEarth.com Written By me
+# Boiler-Plate For Online Coding Contest 
 
 Java 8 Boilerplate for most of programs for I/O
